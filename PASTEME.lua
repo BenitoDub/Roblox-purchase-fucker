@@ -1,5 +1,5 @@
 -- Product Purchase Faker
--- Made by esore 2026
+-- Made by BenitoDub 2026
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -28,7 +28,7 @@ local Header = Instance.new("TextLabel")
 Header.TextWrapped = true
 Header.TextColor3 = Color3.fromRGB(255, 255, 255)
 Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Header.Text = "Product Fucker"
+Header.Text = "Purchase fucker - Made by BenitoDub"
 Header.Name = "Header"
 Header.Size = UDim2.new(0, 197, 0, 19)
 Header.Position = UDim2.new(0.025145066902041435, 0, 0.03183024004101753, 0)
